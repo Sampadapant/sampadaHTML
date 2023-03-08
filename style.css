@@ -1,0 +1,21 @@
+.animal{
+    color: brown;
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    border: 1px solid blue;
+}
+.mobileBrand{
+    color: purple;
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    border: 1px solid blue;
+}
+h4{
+    color: blueviolet;
+}
+#one{
+    border: 1px dotted red;
+
+} 
