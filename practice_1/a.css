@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+p{
+    font-style: italic;
+    color:firebrick;
+    font-size: large;
+}
+.courses{
+    color: blueviolet;
+    font-variant: unset;
+    font-size: x-large;
+}
+.services{
+    color:brown;
+    background-color: aqua;
+}
